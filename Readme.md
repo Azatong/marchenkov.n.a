@@ -1,9 +1,6 @@
-# SilentLad
 
-This is my resume
+Мое резюме
 
-## Installation
-
-- Run `npm i --global marchenkov.n.a`
-- Then in terminal run `marchenkov.n.a`
-
+- Открыть консоль в папке, с резюме
+- Проверить, чтобы был установлен Inquirer.js Если нет установить его, введя команду в консоли, npm install inquirer
+- В консоли ввести команду node index.js
